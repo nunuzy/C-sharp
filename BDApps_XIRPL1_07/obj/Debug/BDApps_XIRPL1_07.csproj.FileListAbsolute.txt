@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\bin\Debug\BDApps_XIRPL1_07.exe.config
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\bin\Debug\BDApps_XIRPL1_07.exe
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\bin\Debug\BDApps_XIRPL1_07.pdb
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\obj\Debug\BDApps_XIRPL1_07.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\obj\Debug\BDApps_XIRPL1_07.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\obj\Debug\BDApps_XIRPL1_07.exe
+C:\Users\ASUS\source\repos\BDApps_XIRPL1_07\obj\Debug\BDApps_XIRPL1_07.pdb
